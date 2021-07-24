@@ -1,0 +1,9 @@
+a={'name':'bhuvi','age':20}
+print(a)
+print(a.keys())
+print(a.values())
+b=['kitkat','gonemad','lays','dairymilk','munch']
+x={'chocki':b}
+print(x)
+print(a['name'])
+print(x['chocki'])
